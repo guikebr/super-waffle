@@ -1,0 +1,23 @@
+{
+  "name": "super-waffle",
+  "version": "1.0.0",
+  "description": "Projeto para demonstrar comandos básicos do Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andremarcondesteixeira/super-waffle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andremarcondesteixeira/super-waffle/issues"
+  },
+  "homepage": "https://github.com/andremarcondesteixeira/super-waffle#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
